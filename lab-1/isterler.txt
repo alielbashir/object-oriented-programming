@@ -1,0 +1,9 @@
+Çalışma-1:
+10! (10 faktöriyel) hesaplayan kod parçacığını yazınız.
+
+
+Çalışma-2:
+Ekrandan 3 adet kelime alıan ve bunları aralarına '\' koyarak yazan kod parçacığını yazınız.
+Mesela:
+Girilen kelimeler Ali Veli Cemil olsun. 
+Bu durumda çıktı Ali\Veli\Cemil olarak yazılması gerekmektedir.
