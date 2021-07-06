@@ -1,2 +1,2 @@
 # nesneye-yonelik-programlama
-Labs for 2020's Object Oriented Programming class at KOU
+2020 MUH201 Object Oriented Programming course labs at Kocaeli University
